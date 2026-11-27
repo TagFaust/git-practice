@@ -1,0 +1,35 @@
+[33mcommit e3c2898a6c5a6466380c114a59cd522569323988[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m)[m
+Author: Слепцов Гаврил <reopland@gmail.com>
+Date:   Fri Nov 27 09:09:33 2026 +0900
+
+    Add login logic
+
+ script.js | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 7a61653940b61e8842850dcaa31cff784235addd[m
+Author: Слепцов Гаврил <reopland@gmail.com>
+Date:   Fri Nov 27 09:09:07 2026 +0900
+
+    Add styles for login
+
+ style.css | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit cc47b495791d85f5c86d6e926096d67fb508496d[m
+Author: Слепцов Гаврил <reopland@gmail.com>
+Date:   Fri Nov 27 09:08:48 2026 +0900
+
+    Add login page
+
+ login.html | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
+
+[33mcommit 8d2b3d7be605cab98cd37e476ae8f92f8c9f58f5[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Слепцов Гаврил <reopland@gmail.com>
+Date:   Fri Nov 27 09:02:06 2026 +0900
+
+    initial commit: add hello.txt
+
+ hello.txt | 1 [32m+[m
+ 1 file changed, 1 insertion(+)
